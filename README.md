@@ -39,7 +39,7 @@ pip install torch torchvision pillow opencv-python gradio
 ### **4. Launch the Gradio App**
 Run the app:
 ```bash
-python predict_digits_gradio.py
+python predict_digit_gradio.py
 ```
 Open the URL provided by Gradio in your browser.
 
@@ -59,4 +59,3 @@ Open the URL provided by Gradio in your browser.
 
 ---
 
-This summary should provide all the key information in a concise format! 😊
